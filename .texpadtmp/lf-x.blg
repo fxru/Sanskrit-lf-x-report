@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: /Users/fxru/Dropbox/Projects/CDSL/Sanskrit-lf-x-report/.texpadtmp/lf-x.aux
+The style file: ../linquiry2.bst
+Database file #1: ../CSL.bib.bib
+You've used 12 entries,
+            2697 wiz_defined-function locations,
+            651 strings with 6190 characters,
+and the built_in function-call counts, 4440 in all, are:
+= -- 378
+> -- 171
+< -- 11
++ -- 72
+- -- 48
+* -- 299
+:= -- 830
+add.period$ -- 50
+call.type$ -- 12
+change.case$ -- 77
+chr.to.int$ -- 12
+cite$ -- 12
+duplicate$ -- 211
+empty$ -- 398
+format.name$ -- 70
+if$ -- 898
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 24
+newline$ -- 68
+num.names$ -- 48
+pop$ -- 103
+preamble$ -- 1
+purify$ -- 64
+quote$ -- 0
+skip$ -- 155
+stack$ -- 0
+substring$ -- 144
+swap$ -- 20
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 72
+warning$ -- 0
+while$ -- 36
+width$ -- 0
+write$ -- 154

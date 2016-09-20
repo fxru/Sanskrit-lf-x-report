@@ -1,0 +1,73 @@
+\begin{thebibliography}{12}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Apte(1890)}]{ap90}
+Apte, Vaman~Shivaram. 1890.
+\newblock {\em The practical {Sanskrit}-{English} dictionary\/}.
+\newblock Poona: Shiralkar.
+
+\bibitem[{B{\"o}htlingk and Roth(1855-1875)}]{pwg}
+B{\"o}htlingk, Otto~von, and Rudolf Roth. 1855-1875.
+\newblock {\em {Sanskrit-W{\"o}rterbuch}\/}.
+\newblock St.~Petersburg: Kaiserliche Akademie der Wissenschaften.
+
+\bibitem[{Cappeler(1887)}]{ccs}
+Cappeler, Carl. 1887.
+\newblock {\em {Sanskrit-W{\"o}rterbuch}\/}.
+\newblock Stra{\ss}burg: Tr{\"u}bner.
+
+\bibitem[{Cappeler(1891)}]{cae}
+Cappeler, Carl. 1891.
+\newblock {\em {Sanskrit}-{English} dictionary\/}.
+\newblock Stra{\ss}burg: Tr{\"u}bner.
+
+\bibitem[{Macdonnell(1893)}]{md}
+Macdonnell, Arthur~Anthony. 1893.
+\newblock {\em A {Sanskrit}-{English} {Dictionary}\/}.
+\newblock London: Longmans.
+
+\bibitem[{Monier-Williams(1872)}]{mw72}
+Monier-Williams, Monier. 1872.
+\newblock {\em A {Sanskrit}-{English} dictionary\/}.
+\newblock Oxford: Clarendon.
+
+\bibitem[{Monier-Williams(1899)}]{mw}
+Monier-Williams, Monier. 1899.
+\newblock {\em A {Sanskrit}-{English} dictionary, new edition.\/}.
+\newblock Oxford: Clarendon.
+
+\bibitem[{Scharf and Hyman(2011)}]{ScharfHyman2011}
+Scharf, Peter~M., and Malcolm~D. Hyman. 2011.
+\newblock {\em Linguistic issues in encoding {Sanskrit}\/}.
+\newblock Providence: The Sanskrit Library.
+\newblock \urlprefix\url{sanskrit1.ccv.brown.edu/tomcat/sl/-/pub/lies_sl.pdf}.
+
+\bibitem[{Stchoupak et~al.(1932)Stchoupak, Nitti-Dolchi, and Renou}]{stc}
+Stchoupak, Nadine, Luigia Nitti-Dolchi, and Louis Renou. 1932.
+\newblock {\em Dictionnaire sanskrit-fran{\c c}ais\/}.
+\newblock Publications de l'Institut de Civilisation Indienne. Paris:
+  Maisonneuve.
+
+\bibitem[{Vidy{\=a}s{\=a}gara(1900)}]{shs}
+Vidy{\=a}s{\=a}gara, J{\=\i}v{\=a}nanda. 1900.
+\newblock {\em Shabda-sagara, or a comprehensive {Sanskrit}-{English} lexicon :
+  chiefly based on professor {Horace} {Hayman} {Wilsons} {Sanskrit}-{English}
+  dictionary and compiled from various recent authorities for the use of
+  schools and colleges\/}.
+\newblock Calcutta: Calcutta Press.
+
+\bibitem[{Wilson(1832)}]{wil}
+Wilson, Horace~H. 1832.
+\newblock {\em A dictionary in {Sanscrit} and {English}\/}.
+\newblock Calcutta: Education Press, 2. ed., greatly extended edition.
+
+\bibitem[{Yates(1846)}]{yat}
+Yates, William. 1846.
+\newblock {\em A dictionary in {Sanscrit and} {English}, designed for the use
+  of private students and of indian colleges and schools\/}.
+\newblock Calcutta: The Baptist Mission Press.
+
+\end{thebibliography}
